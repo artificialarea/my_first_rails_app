@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Odin Project experiment
 
-Things you may want to cover:
+see: https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application
 
-* Ruby version
+hooked this rails app to heroku, too.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
